@@ -1,1 +1,2 @@
-placeholder
+![What it looks like](https://raw.githubusercontent.com/kingman11211/Zippy-s-Mods/main/Custom%20Holdables/4%20Fingers/4_fingers_showcase.PNG)
+This is just something really shitty i made but atleast u have it. As u prob alr know this is made for devs holdable pad.
