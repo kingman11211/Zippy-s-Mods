@@ -1,1 +1,2 @@
-
+![What it looks like](https://raw.githubusercontent.com/kingman11211/Zippy-s-Mods/main/Custom%20Holdables/Bread%20with%20Crown/image.PNG)
+Someone asked and they recieved. Only made one for right hand. btw this is for devs holdable pad.
